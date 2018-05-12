@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '37798'
     url: http://www.gutenberg.org/2009/agents/37798
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35642#The-Bible-in-SpainVol.-1--of-2-
 gutenberg_issued: '2011-03-21'
 gutenberg_type: Text
 identifiers:
