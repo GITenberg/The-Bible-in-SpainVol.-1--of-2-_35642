@@ -1,0 +1,43 @@
+_repo: The-Bible-in-SpainVol.-1--of-2-_35642
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Borrow, George
+    alias: Borrow, George Henry
+    birthdate: 1803
+    deathdate: 1881
+    gutenberg_agent_id: '4383'
+    url: http://www.gutenberg.org/2009/agents/4383
+    wikipedia: http://en.wikipedia.org/wiki/George_Borrow
+  editors:
+  - agent_name: Burke, Ulick Ralph
+    birthdate: 1845
+    deathdate: 1895
+    gutenberg_agent_id: '37797'
+    url: http://www.gutenberg.org/2009/agents/37797
+  - agent_name: Greene, Herbert W. (Herbert Wilson)
+    birthdate: 1857
+    deathdate: 1933
+    gutenberg_agent_id: '37798'
+    url: http://www.gutenberg.org/2009/agents/37798
+description: ''
+gutenberg_issued: '2011-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35642'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcc 'PR'
+- !lcsh 'Spain -- History -- 19th century'
+- !lcsh 'Spain -- Description and travel'
+- !lcsh 'Borrow, George, 1803-1881 -- Travel -- Spain'
+title: "The Bible in Spain, Vol. 1 [of 2]\r\nOr, the Journeys, Adventures, and Imprisonments\
+  \ of an Englishman in an Attempt to Circulate the Scriptures in the Peninsula"
+url: http://www.gutenberg.org/ebooks/35642
